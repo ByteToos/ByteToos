@@ -1,7 +1,7 @@
 ## ByteToos
 
-My Telegram -> [Telegram](https://t.me/ByteToos)
-
+My Telegram -> [Click](https://t.me/ByteToos)<br/>
+Site -> [Click](http://bytetoos.ru/)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bytetoos@gmail.com) 
